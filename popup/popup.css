@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(255, 238, 213);
+}
+
+.headerLogo{
+    width: 20%;
+}
+
+.options{
+    display: flex;
+    justify-content: space-evenly;
+}

@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Security Extension",
+  "description": "Web Safety Tool",
+  "version": "1.0",
+  "action": {
+  "default_popup": "popup/popup.html",
+  "default_icon": "popup/popup_logo.png"
+  },
+
+
+  "icons": {
+    "16": "popup/popup_logo.png",
+    "32": "popup/popup_logo.png",
+    "48": "popup/popup_logo.png",
+    "128": "popup/popup_logo.png"
+  }
+}
+
